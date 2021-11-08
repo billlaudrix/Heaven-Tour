@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Remember
-Template URL: https://bootstrapmade.com/remember-free-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+HeavenTour adalah project web statis dalam rangka diklat Junior Web Programmer yang diadakan oleh BDI Denpasar dan Tiga Serangkai
